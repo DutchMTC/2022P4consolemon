@@ -22,9 +22,6 @@ namespace ConsoleMonsters
             };
 
             Skill copyVanAttack = new Skill(attack);
-
-
-            Console.WriteLine("Hello World!");
         }
     }
 }
