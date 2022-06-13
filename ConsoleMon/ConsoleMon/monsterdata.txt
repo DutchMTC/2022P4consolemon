@@ -1,0 +1,6 @@
+EnterMon,hp,100,baseDam,2,weakness,Fire
+Skills;KeyPress,baseDam,5,energy,10,element,Fire;Default,baseDam,1,energy,0,element,Water
+NewLineMon,hp,90,baseDam,3,weakness,Elec
+Skills;Clear,baseDam,5,energy,10,element,Water;Default,baseDam,1,energy,0,element,Fire
+DeleteMon,hp,90,baseDam,3,weakness,Dark
+Skills;Erase,baseDam,4,energy,2,element,Dark;Default,baseDam,1,energy,0,element,Grass
